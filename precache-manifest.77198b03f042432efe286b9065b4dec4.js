@@ -4,14 +4,14 @@ self.__precacheManifest = [
     "url": "oauth.html"
   },
   {
-    "revision": "60aee34e25df7c562f9b9c1d0a1a7124",
+    "revision": "70d4bddc2b9cfa7fb08417c97427cc70",
     "url": "index.html"
   },
   {
-    "url": "index.355c99d8bd7efaa23e55.js"
+    "url": "index.a235030eee757f0fa455.js"
   },
   {
-    "url": "index.355c99d8bd7efaa23e55.css"
+    "url": "index.a235030eee757f0fa455.css"
   },
   {
     "revision": "c3ddd3aecb3300468f819e988b32d152",
